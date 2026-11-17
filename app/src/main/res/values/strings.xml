@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Rolet Cam</string>
+    <string name="permission_banner_title">Camera &amp; GPS Access</string>
+    <string name="permission_banner_body">Enable Camera and GPS Location to capture photos with a live geotag overlay and EXIF coordinates.</string>
+    <string name="permission_grant_action">Enable Camera &amp; GPS</string>
+    <string name="camera_loading">Starting camera…</string>
+    <string name="location_disabled_title">Device GPS Is Off</string>
+    <string name="location_disabled_body">Turn on device location to acquire satellite coordinates offline.</string>
+    <string name="location_open_settings">Enable GPS</string>
+    <string name="status_gps_searching">Acquiring GPS…</string>
+    <string name="status_gps_denied">Location Off</string>
+    <string name="cd_vector_minimap">Live coordinate mini-map indicator</string>
+    <string name="cd_compass_rose">Live compass rose heading indicator</string>
+    <string name="cd_settings_button">Overlay and camera settings</string>
+    <string name="cd_back_button">Navigate back</string>
+    <string name="cd_shutter_button">Capture geotagged photo</string>
+    <string name="cd_switch_camera">Switch front or back camera</string>
+    <string name="cd_flash_button">Cycle flash mode</string>
+    <string name="cd_grid_button">Toggle viewfinder gridlines</string>
+    <string name="cd_gallery_button">Open captured photos gallery</string>
+    <string name="cd_share_photo">Share photo</string>
+    <string name="cd_delete_photo">Delete photo</string>
+    <string name="cd_photo_info">Photo EXIF metadata</string>
+    <string name="cd_aspect_ratio">Cycle camera aspect ratio</string>
+    <string name="open_in_gallery">Open in Gallery</string>
+</resources>

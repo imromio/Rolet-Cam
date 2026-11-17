@@ -1,0 +1,6 @@
+{
+  "name": "Rolet Cam",
+  "description": "Offline-ready Android GPS camera (Rolet Cam) with live coordinates, offline & live Google Satellite mini-map options, aspect ratio controls, shutter audio, and EXIF geotagging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
